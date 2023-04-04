@@ -1,0 +1,51 @@
+* {
+    padding: 0px;
+    margin: 0px;
+      
+}
+
+main{
+    font-family: helvetica;
+}
+
+.bloco{
+    margin: 5px;
+    padding: 10px;
+    padding-bottom: 20px;
+
+}
+
+#bloco-1{
+    color: white;
+    background-color: rgb(245, 166, 20);
+    border: solid 3px rgb(243, 199, 123);
+    display: block;
+    width: 35vw;
+
+}
+
+#bloco-2{
+    color: white;
+    background-color: rgb(62, 145, 62);
+    border: solid 4px rgb(138, 228, 138);
+    display: block;
+    width: 35vw;
+
+}
+
+#bloco-3{
+    color: white;
+    background-color: rgb(32, 73, 32);
+    border: dashed 4px rgb(8, 172, 8);
+    display: block;
+    width: 35vw;
+
+}
+#bloco-4{
+    color: white;
+    background-color: red;
+    border: dashed 4px rgb(236, 191, 191);
+    display: block;
+    width: 35vw;
+
+}
